@@ -1,0 +1,29 @@
+[
+  {
+    "codice_modello": "COM_2026_01",
+    "matricola_referente": "101",
+    "tipologia": "confezionamento",
+    "stato": "chiuso",
+    "data_inizio": "2026-01-15",
+    "data_fine": "2026-04-30",
+    "budget": 15000.0,
+    "dettagli": "Produzione lotti cappotti invernali doppio petto.",
+    "operai_assegnati": [
+      "101"
+    ]
+  },
+  {
+    "codice_modello": "codice_prova",
+    "matricola_referente": "123",
+    "tipologia": "taglio",
+    "stato": "chiuso",
+    "data_inizio": "1",
+    "data_fine": "2",
+    "budget": 100.0,
+    "dettagli": "descrizione di prova",
+    "operai_assegnati": [
+      "101",
+      "123"
+    ]
+  }
+]

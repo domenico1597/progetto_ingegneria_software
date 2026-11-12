@@ -1,0 +1,30 @@
+[
+  {
+    "username": "admin",
+    "password": "ac9689e2272427085e35b9d3e3e8bed88cb3434828b43b86fc0596cad4c6e270",
+    "ruolo": "amministratore",
+    "matricola": "",
+    "primo_accesso": false
+  },
+  {
+    "username": "101",
+    "password": "66bf4d7d59491b4bdfeca03bf68c0421e13763eadcebca53621e554e314f6c72",
+    "ruolo": "operaio",
+    "matricola": "101",
+    "primo_accesso": true
+  },
+  {
+    "username": "domenico.ciava",
+    "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "ruolo": "operaio",
+    "matricola": "123",
+    "primo_accesso": false
+  },
+  {
+    "username": "domAdmin",
+    "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "ruolo": "amministratore",
+    "matricola": "",
+    "primo_accesso": true
+  }
+]

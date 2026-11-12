@@ -1,0 +1,34 @@
+[
+  {
+    "matricola": "101",
+    "nome": "Mario",
+    "cognome": "Rossi",
+    "genere": "M",
+    "data_nascita": "1985-05-12",
+    "luogo_nascita": "Milano",
+    "provincia": "MI",
+    "comune": "Milano",
+    "cap": "20100",
+    "indirizzo": "Via Roma 1",
+    "email": "mario.rossi@azienda.it",
+    "telefono": "3331234567",
+    "ruolo": "macchinista",
+    "stato": "attivo"
+  },
+  {
+    "matricola": "123",
+    "nome": "Domenico",
+    "cognome": "Ciavarella",
+    "genere": "M",
+    "data_nascita": "1997-08-31",
+    "luogo_nascita": "Torremaggiore",
+    "provincia": "FG",
+    "comune": "Torremaggiore",
+    "cap": "71017",
+    "indirizzo": "Via di prova",
+    "email": "prova@gmail.com",
+    "telefono": "12345678",
+    "ruolo": "amministrazione",
+    "stato": "attivo"
+  }
+]

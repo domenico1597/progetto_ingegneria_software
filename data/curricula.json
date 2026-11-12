@@ -1,0 +1,16 @@
+[
+  {
+    "matricola_operaio": "101",
+    "sintesi": "Operaio specializzato nel confezionamento capispalla di alta moda.",
+    "formazione": "Diploma Tecnico Tessile",
+    "competenze": "Taglio tessuti, Macchine da cucire industriali, Controllo qualità",
+    "esperienze": []
+  },
+  {
+    "matricola_operaio": "123",
+    "sintesi": "sintesi prova",
+    "formazione": "formazione prova",
+    "competenze": "competenze prova",
+    "esperienze": []
+  }
+]
